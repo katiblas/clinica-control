@@ -17,3 +17,6 @@ jobs:
         stale-pr-message: 'Stale pull request message'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
+      
+      - nombre: Phalcon Action
+  usos: MilesChou/phalcon-action@0.0.1:  
